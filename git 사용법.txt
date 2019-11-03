@@ -1,0 +1,24 @@
+git init
+
+git add *  ||  git add index.html
+
+git config --global user.email "auction4289@gmail.com"
+
+git config --global user.name "taejeong123"
+
+git commit -m "gitgit"
+
+git remote add origin 복붙
+
+git push origin master
+
+
+클론 후 수정 완료
+
+클론 후 다운로드 버튼 누름
+
+git pull origin
+
+master 브랜치로 변경하기
+
+git checkout master
