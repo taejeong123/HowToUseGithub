@@ -6,19 +6,20 @@ git config --global user.email "auction4289@gmail.com"
 
 git config --global user.name "taejeong123"
 
-git commit -m "gitgit"
+git commit -m "ì»¤ë°‹ ì´ë¦„"
 
-git remote add origin º¹ºÙ
+git remote add origin <git ì£¼ì†Œ>
 
 git push origin master
 
+======================================
 
-Å¬·Ğ ÈÄ ¼öÁ¤ ¿Ï·á
+í´ë¡  í›„ ìˆ˜ì • ì™„ë£Œ
 
-Å¬·Ğ ÈÄ ´Ù¿î·Îµå ¹öÆ° ´©¸§
+í´ë¡  í›„ ë‹¤ìš´ë¡œë“œ ë²„íŠ¼ ëˆ„ë¦„
 
 git pull origin
 
-master ºê·£Ä¡·Î º¯°æÇÏ±â
+master ë¸Œëœì¹˜ë¡œ ë³€ê²½í•˜ê¸°
 
 git checkout master
